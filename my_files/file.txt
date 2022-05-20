@@ -1,0 +1,9 @@
+Python es un lenguaje multiplataforma
+Python está basado en POO.
+Python basado en diferentes paradigmas de programación
+PythonNodeJS
+
+PythonJavaphpRubyNodeJS
+
+JavaScriptAngularReactJSBoostrap
+PythonNodeJS
